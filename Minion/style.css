@@ -1,0 +1,208 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background: rgb(54, 54, 54);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.minion-container {
+    position: relative;
+}
+
+.hair{
+    position: absolute;
+    width: 1rem;
+    height: 1rem;
+    background: black;
+}
+
+.hairone{
+    top: -3.9%;
+    left: 45%;
+}
+
+.hairtwo{
+    top: -3%;
+    left: 35%;
+    rotate: -5deg;
+}
+
+.hairthree{
+    top: -3%;
+    left: 55%;
+    rotate: 5deg;
+}
+
+.hairfour{
+    top: -2%;
+    left: 65%;
+    rotate: 10deg;
+}
+
+.hairfive{
+    top: -1.7%;
+    left: 25%;
+    rotate: -10deg;
+}
+
+.body {
+    background: #fbd404;
+    width: 15rem;
+    height: 25rem;
+    border-top-right-radius: 7rem;
+    border-top-left-radius: 7rem;
+    border-bottom-right-radius: 6rem;
+    border-bottom-left-radius: 6rem;
+    border: 5px solid black;
+    position: relative;
+    overflow: hidden; 
+}
+
+.brilbandje {
+    position: absolute;
+    width: 16rem;
+    height: 2rem;
+    background: black;
+    top: 25%;
+    left: -3%;
+}
+
+.eye {
+    width: 5rem;
+    height: 5rem;
+    background: white;
+    border-radius: 50%;
+    border: 1rem solid black;
+    position: relative;
+}
+
+.one {
+    position: absolute;
+    top: 14.5%;
+    left: 5%;
+}
+
+.two {
+    position: absolute;
+    top: 14.5%;
+    right: 5%;
+}
+
+.pupil {
+    width: 0.8rem;
+    height: 0.8rem;
+    background: black;
+    border: 0.3rem solid green;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 30%;
+    right: 20%;
+}
+
+.mouth {
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+    background: black;
+    position: absolute;
+    bottom: 35%;
+    right: 35%;
+}
+
+.pants {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #3d647d;
+    position: absolute;
+    bottom: 0%;
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 4rem;
+    border-top: 5px solid black;
+}
+
+.arm {
+    width: 4rem;
+    height: 1rem;
+    background: #fbd404;
+    position: absolute;
+    bottom: 25%;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+.aone {
+    rotate: 45deg;
+    right: -17%;
+}
+
+.atwo {
+    rotate: -45deg;
+    left: -17%;
+}
+
+.hands{
+    background: black;
+    width: 2rem;
+    height: 2rem;
+    position: absolute;
+    z-index: 1;
+}
+
+.hone{
+    bottom: 18%;
+    left: -22%;
+    rotate: 45deg;
+    border-bottom-left-radius: 50%;
+}
+
+.htwo{
+    bottom: 18%;
+    right: -22%;
+    rotate: -45deg;
+    border-bottom-right-radius: 50%;
+}
+
+
+
+.legs {
+    width: 1.5rem;
+    height: 4rem;
+    background: #3d647d;
+    position: absolute;
+    bottom: -14.5%;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+
+.lone {
+    left: 33%;
+}
+
+.ltwo {
+    right: 33%;
+}
+
+.shoe{
+    position: absolute;
+    background: black;
+    width: 3rem;
+    height: 2rem;
+    bottom: 0%;
+}
+
+.sleft{
+    right: 0%;
+    border-top-left-radius: 50%;
+}
+
+.sright{
+    left: 0%;
+    border-top-right-radius: 50%;
+}
