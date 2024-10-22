@@ -1,0 +1,25 @@
+section{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.targetborder{
+    width: 20rem;
+    height: 20rem;
+    border: 5rem solid red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.targetinside{
+    width: 10rem;
+    height: 10rem;
+    background: red;
+    border-radius: 50%;
+}
+

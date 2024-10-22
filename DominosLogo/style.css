@@ -1,0 +1,53 @@
+section{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    rotate: 135deg;
+}
+
+.dominostop{
+    width: 20rem;
+    height: 20rem;
+    background: #ff1135;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+}
+
+.dominosbottom{
+    width: 20rem;
+    height: 20rem;
+    background: #006494;
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.innerbottom{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    rotate: 45deg;
+}
+
+.circle{
+    width: 5rem;
+    height: 5rem;
+    background: white;
+    border-radius: 50%;
+}
