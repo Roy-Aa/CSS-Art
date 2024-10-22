@@ -9,7 +9,7 @@ section{
 .targetborder{
     width: 20rem;
     height: 20rem;
-    border: 5rem solid red;
+    border: 5rem solid #cc0001;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -19,7 +19,7 @@ section{
 .targetinside{
     width: 10rem;
     height: 10rem;
-    background: red;
+    background: #cc0001;
     border-radius: 50%;
 }
 
