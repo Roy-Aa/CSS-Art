@@ -9,4 +9,4 @@ Hier zijn wat CSS Art projecten die ik zelf gemaakt heb
 ![Windows logo](Windows-logo.png)
 
 ## Cassettebandje 🎨 [Link](https://www.lekkerensimpel.com/basisrecept-voor-pannenkoeken/)
-![Windows logo](Windows-logo.png)
+![Cassettebandje](Cassettebandje.png)
