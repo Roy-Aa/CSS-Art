@@ -1,5 +1,5 @@
 # CSS-Art 🎨
-Hier zijn wat CSS Art projecten die ik zelf gemaakt heb
+Hier zijn enkele CSS Art-projecten die ik zelf heb gemaakt.
 ## Windows Logo 🎨 (Geen position absolute) [Link](https://www.lekkerensimpel.com/basisrecept-voor-pannenkoeken/)
 ![Windows logo](Windows-logo.png)
 ## Target Logo 🎨 (Geen position absolute) [Link](https://www.lekkerensimpel.com/basisrecept-voor-pannenkoeken/)
