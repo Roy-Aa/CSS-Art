@@ -6,6 +6,8 @@ Hier zijn enkele CSS Art-projecten die ik zelf heb gemaakt.
 ![Target logo](Targetlogopicture.png)
 ## Domino's Logo 🎨 (Geen position absolute) [Link](https://www.lekkerensimpel.com/basisrecept-voor-pannenkoeken/)
 ![Dominos logo](Dominoslogopicture.png)
+## Elementor Logo 🎨 (Geen position absolute) [Link](https://www.lekkerensimpel.com/basisrecept-voor-pannenkoeken/)
+![Elementor logo](Elementor-logo.png)
 ## Cassettebandje 🎨 [Link](https://www.lekkerensimpel.com/basisrecept-voor-pannenkoeken/)
 ![Cassettebandje](Cassettebandje.png)
 ## Homer Simpson 🎨 [Link](https://www.lekkerensimpel.com/basisrecept-voor-pannenkoeken/)
